@@ -6,7 +6,7 @@ public class Hello {
 	  {
 		    System.out.println("Hi");
 			Class2 Au = new Class2();
-			System.out.println(Au.num + 5);
+			System.out.println(Au.num);
 	  }
 
 }
