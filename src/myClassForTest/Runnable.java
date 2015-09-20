@@ -1,12 +1,13 @@
-package myClass;
+package myClassForTest;
 
-public class Hello {
+public class Runnable {
 
 	  public static void main(String[] args) 
 	  {
 		    System.out.println("Hi");
-			Class2 Au = new Class2();
+			MainData Au = new MainData();
 			System.out.println(Au.num);
+			
 	  }
 
 }
